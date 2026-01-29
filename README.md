@@ -1,6 +1,6 @@
 # Hi, I'm Ivan 👋
 
-**Python Backend Developer · 2nd year Applied Mathematics & Computer Science, NIU MPEI**  
+**Python Backend Developer · 2nd year Applied Mathematics & Computer Science, MPEI**  
 Junior backend dev focused on **API services, business logic & DB apps**. Preparing for a **backend internship / junior role**.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
